@@ -1,2 +1,5 @@
 # Portfolio
-Game Design Portfolio for Gunawan Kamaruddin
+Game Development Portfolio for Gunawan Kamaruddin
+[LinkedIn](https://www.linkedin.com/in/gunawan-kamaruddin-5b527717b/)
+
+
